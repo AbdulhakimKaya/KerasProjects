@@ -1,0 +1,1 @@
+VGG16_NesneTanima dosyasındaki kodlar çalıştırılırken kullanılan örnek resimler
